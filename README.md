@@ -10,3 +10,4 @@ Includes:
 
 - Commands
 - Tutorials
+- Projects
