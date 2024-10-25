@@ -12,3 +12,4 @@ Includes:
 - Tutorials
 - Projects
 - New Line Added
+- For pull
