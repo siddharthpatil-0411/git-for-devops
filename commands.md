@@ -1,4 +1,4 @@
-# Git Commands Cheat Sheet
+# Git Commands Cheat Sheet for DevOps
 
 ## 1. Basic Commands
 - **Print Current Directory Path**  
